@@ -8,4 +8,5 @@ cabecalho-itens{
     .header{
         background-color: #424e61;
         color: white;
+        display: flex;
     }
