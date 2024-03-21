@@ -1,12 +1,16 @@
 cabecalho-itens{
-    background-color: aquamarine;
-    color: blanchedalmond;
+    background-color: #424e61;
+        color: white;
+        display: flex;
+        justify-content: space-around;
     }
     .cabecalho-imagem{
         width: 10%;
+        height: 10%;
     }
     .header{
         background-color: #424e61;
         color: white;
         display: flex;
+        justify-content: space-around;
     }
