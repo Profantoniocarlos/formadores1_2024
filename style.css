@@ -1,16 +1,14 @@
-cabecalho-itens{
-    background-color: #424e61;
-        color: white;
-        display: flex;
-        justify-content: space-around;
-    }
-    .cabecalho-imagem{
-        width: 10%;
-        height: 10%;
-    }
-    .header{
+    .cabecalho-itens {
         background-color: #424e61;
         color: white;
         display: flex;
         justify-content: space-around;
+    }
+
+    .lista{
+        display: inline-block;
+    }
+    .cabecalho-imagem{
+        width: 10%;
+        height: 10%;
     }
