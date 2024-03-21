@@ -1,14 +1,22 @@
-    .cabecalho-itens {
+    .cabecalho-itens{
         background-color: #424e61;
         color: white;
         display: flex;
         justify-content: space-around;
+        align-items: space-around;
+        padding: 24px 0;
+    
     }
 
     .lista{
         display: inline-block;
+        margin: 0 32px;
     }
     .cabecalho-imagem{
         width: 10%;
         height: 10%;
+    }
+    * {
+        margin: 0;
+        padding: 0;
     }
