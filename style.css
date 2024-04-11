@@ -7,7 +7,9 @@
         padding: 24px 0;
     
     }
-
+    body{
+        font-family: "Poppins", sans-serif;
+    }
     .lista{
         display: inline-block;
         margin: 0 32px;
@@ -24,6 +26,17 @@
         width: 25%;}
     
     .escola{
-        background-image: linear-gradient(#40A2E3,#7FC2EF)
-        color: ;
+        background-image: linear-gradient(#40A2E3,#7FC2EF);
+        color: white;
+        display: flex;
+        justify-content:center;
+        align-itens: center;
+        padding: 24px 0;
+
+    .escola-div-conteudo{
+        width: 35%;
+    }
+    .escola-titulo{
+        padding: 24px 0;
+    }
     }
