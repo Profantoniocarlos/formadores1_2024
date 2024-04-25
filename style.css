@@ -1,3 +1,6 @@
+    body{
+    font-family: "Poppins", sans-serif;
+    }
     .cabecalho-itens{
         background-color: #424e61;
         color: white;
@@ -5,27 +8,25 @@
         align-items: center;
         padding: 24px 0;
     }
+    .cabecalho-imagem{
+        width: 10%;
+        justify-content: flex-start;
+        align-items: center;
+    }
     .titulo_site{
         padding: 50px;
         text-align: center;
     }
-    body{
-        font-family: "Poppins", sans-serif;
-    }
     .redes{
         display: flex;
-        justify-content: flex-end; 
-        align-items: center;  
+        justify-content: flex-end;  
         width: 40px;
     }
     .banner1{
         display: flex;
         justify-content: center;
     }
-    .cabecalho-imagem{
-        width: 10%;
-    }
-
+    
     .escola-imagem{
         width: 25%;}
     
