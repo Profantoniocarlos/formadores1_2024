@@ -91,12 +91,9 @@ body{
     }
 
     .logo_rodape{
-        display: flex;
-        justify-content:center;
-        width: 5%;
+        height: 60px;
         padding: 12px 0;
         
-
     }
     .link{
         color: #ffffff;
