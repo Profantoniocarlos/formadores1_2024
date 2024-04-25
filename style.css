@@ -1,15 +1,22 @@
     body{
     font-family: "Poppins", sans-serif;
     }
-    .cabecalho-itens{
+
+    header{
         background-color: #424e61;
         color: white;
+
+    }
+    .cabecalho-itens{
+        max-width: 1080px;
+        display: flex;
         justify-content: flex-end;
         align-items: center;
-        padding: 24px 0;
+        justify-content: center;
     }
     .cabecalho-imagem{
         width: 10%;
+        display: flex;
         justify-content: flex-start;
         align-items: center;
     }
@@ -17,7 +24,7 @@
         padding: 50px;
         text-align: center;
     }
-    .redes{
+    .sociais{
         display: flex;
         justify-content: flex-end;
         width: 40px;
