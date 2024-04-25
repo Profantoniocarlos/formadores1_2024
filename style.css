@@ -18,9 +18,9 @@
         text-align: center;
     }
     .redes{
-        display: inline-block;
-        margin: 0 16px;
-        font-size: 24px;
+        display: flex;
+        justify-content: flex-end;
+        width: 40px;
     }
     .banner1{
         display: flex;
