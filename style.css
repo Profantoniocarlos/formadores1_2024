@@ -9,13 +9,13 @@
     }
     .cabecalho-itens{
         max-width: 1080px;
-        display: flex;
+        margin: 0 auto;
         justify-content: flex-end;
         align-items: center;
         justify-content: center;
     }
     .cabecalho-imagem{
-        width: 10%;
+        width: 25%;
         display: flex;
         justify-content: flex-start;
         align-items: center;
@@ -23,11 +23,12 @@
     .titulo_site{
         padding: 50px;
         text-align: center;
+        width: 50%;
     }
     .sociais{
         display: flex;
         justify-content: flex-end;
-        width: 40px;
+        width: 25%;
     }
     .banner1{
         display: flex;
