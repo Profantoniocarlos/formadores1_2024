@@ -64,8 +64,7 @@
         padding: 24px 0;
     }
     .estudantes_todos{
-        display: grid;
-        grid-template-columns: 20% 20% 20%;
+        display: flex;
         justify-content: space-around;
     }
    
