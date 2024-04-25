@@ -31,6 +31,7 @@
         display: flex;
         justify-content: flex-end;
         width: 25%;
+        padding-right: 30px;
     }
     .banner1{
         display: flex;
