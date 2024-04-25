@@ -49,11 +49,6 @@
     width: 120px;
     }
     
-    .banner1{
-        display: flex;
-        justify-content: center;
-
-}
     .estudante-icone{
         width: 24px;
         padding: 4px 8px;
@@ -65,6 +60,10 @@
 
     .estudante.div{
         text-align: center;
-        padding: 16px 0;
+        padding: 24px 0;
     }
     
+    .banner1{
+        display: flex;
+        justify-content: center;
+}
