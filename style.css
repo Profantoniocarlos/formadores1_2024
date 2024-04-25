@@ -16,6 +16,9 @@
         justify-content: flex-end;
         width: 350px;
         height: 350px;
+        align-items: center;
+        padding: 24px 0;
+    }
 
     }
     .cabecalho-imagem{
