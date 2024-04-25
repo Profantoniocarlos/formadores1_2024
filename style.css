@@ -44,13 +44,15 @@ body{
         display: flex;
         justify-content: center;
     }
-    
-    
     .estudante_titulo{
         padding: 50px;
         text-align: center;
     }
 
+    .estudante-nome{
+        padding: 50px;
+        text-align: center;
+    }
     .estudante-imagem{
     width: 120px;
     }
