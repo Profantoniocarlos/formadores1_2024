@@ -1,7 +1,7 @@
     .cabecalho-itens{
         background-color: #424e61;
         color: white;
-        justify-content: space-around;
+        justify-content: flex-end;
         align-items: center;
         padding: 24px 0;
     }
@@ -20,7 +20,7 @@
         align-items: center;  
         width: 40px;
         padding: 15px;
-        gap: 5px;
+       
         
     }
 
