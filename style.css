@@ -12,6 +12,9 @@
     .redes{
         display: flex;
         justify-content: flex-end;
+        width: 350px;
+        height: 350px;
+
     }
     .cabecalho-imagem{
         width: 10%;
