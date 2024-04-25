@@ -9,9 +9,9 @@
     body{
         font-family: "Poppins", sans-serif;
     }
-    .lista{
-        display: inline-block;
-        margin: 0 32px;
+    .redes{
+        display: flex;
+        justify-content: flex-end;
     }
     .cabecalho-imagem{
         width: 10%;
