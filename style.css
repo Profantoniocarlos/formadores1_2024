@@ -16,8 +16,9 @@
     }
     .redes{
         display: flex;
-        justify-content: flex-end;
-        width: 20px;
+        justify-content: space-evenly; 
+        align-items: center;  
+        width: 30px;
         
     }
 
