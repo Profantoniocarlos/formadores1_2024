@@ -5,11 +5,12 @@
     header{
         background-color: #424e61;
         color: white;
-        padding: 10px;
+        width: 100%;
+        padding: 20px;
 
     }
     .cabecalho-itens{
-        max-width: 1080px;
+        max-width: 1980px;
         margin: 0 auto;
         justify-content: flex-end;
         align-items: center;
