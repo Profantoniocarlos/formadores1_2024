@@ -90,6 +90,12 @@ body{
         text-align: center;
     }
 
+    .logo_rodape{
+        display: flex;
+        justify-content:flex-start;
+        width: 10%;
+
+    }
     .link{
         color: #ffffff;
         text-decoration: none;
