@@ -14,8 +14,7 @@
     .redes{
         display: flex;
         justify-content: flex-end;
-        width: 350px;
-        height: 350px;
+        width: 200px;
         align-items: center;
         padding: 24px 0;
     }
