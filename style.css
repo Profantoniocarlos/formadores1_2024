@@ -1,12 +1,13 @@
     .cabecalho-itens{
         background-color: #424e61;
         color: white;
+        padding: 24px 0;
     }
     .titilo_site{
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 24px 0;
+        
     }
     body{
         font-family: "Poppins", sans-serif;
