@@ -5,20 +5,17 @@
         align-items: center;
         padding: 24px 0;
     }
-    .titilo_site{
-        display: flex;
-        justify-content: flex-end;
-        align-items: center; 
+    .titulo_site{
+        padding: 50px;
+        text-align: center;
     }
     body{
         font-family: "Poppins", sans-serif;
     }
     .redes{
         display: flex;
-        justify-content: space-evenly; 
-        align-items: center;  
+        justify-content: flex-end;   
         width: 40px;
-        padding: 15px; 
     }
     .banner1{
         display: flex;
