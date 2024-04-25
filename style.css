@@ -45,6 +45,12 @@
     .escola-titulo{
         padding: 24px 0;
     }
+
+    .escola_titulo{
+        font-size: 36px;
+        padding: 24px 0;
+    }
+
     .estudante-imagem{
     width: 120px;
     }
