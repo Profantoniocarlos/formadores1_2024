@@ -73,9 +73,7 @@ body{
         display: flex;
         justify-content: space-around;
     }
-    .escola-imagem{
-        width: 25%;}
-    .escola{
+   .escola{
         background-image: linear-gradient(#40A2E3,#7FC2EF);
         color: white;
         display: flex;
@@ -83,9 +81,6 @@ body{
         padding: 24px 0;
         text-align:center;
         display:block;
-    }
-    .escola-div-conteudo{
-        width: 35%;
     }
     .escola-titulo{
         padding: 50px;
