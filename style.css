@@ -2,7 +2,7 @@
         background-color: #424e61;
         color: white;
         display: flex;
-        justify-content: space-around;
+        justify-content: center;
         align-items: center;
         padding: 24px 0;
     }
@@ -19,6 +19,8 @@
     .cabecalho-imagem{
         width: 10%;
         height: 10%;
+        display: flex;
+        justify-content: flex-start;
     }
 
     .escola-imagem{
